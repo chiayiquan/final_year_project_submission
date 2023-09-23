@@ -1,0 +1,122 @@
+[
+  {
+    "id": "826fca59b7e34232a2cae96889dd3040",
+    "amount": 100,
+    "createdAt": "1690353734995",
+    "productId": "a804cf59dc2f420ab4b0eb7d8223f1df",
+    "paymentOccurrence": "ONE_TIME",
+    "stripePriceId": "price_1NY1QGKIrPWZ5X3VX7mC9M2S"
+  },
+  {
+    "id": "c8fed1b3d37840b28528bed88f19d2ec",
+    "amount": 100,
+    "createdAt": "1690353734995",
+    "productId": "a804cf59dc2f420ab4b0eb7d8223f1df",
+    "paymentOccurrence": "MONTHLY",
+    "stripePriceId": "price_1NY1QGKIrPWZ5X3VAFQdy8N0"
+  },
+  {
+    "id": "f92ed6081fc1419d98bc7f61ad3e5812",
+    "amount": 200,
+    "createdAt": "1690353734995",
+    "productId": "a804cf59dc2f420ab4b0eb7d8223f1df",
+    "paymentOccurrence": "ONE_TIME",
+    "stripePriceId": "price_1NY1QGKIrPWZ5X3VHYR7D3er"
+  },
+  {
+    "id": "fff937ca9d7848588fe19163c371098b",
+    "amount": 200,
+    "createdAt": "1690353734995",
+    "productId": "a804cf59dc2f420ab4b0eb7d8223f1df",
+    "paymentOccurrence": "MONTHLY",
+    "stripePriceId": "price_1NY1QGKIrPWZ5X3VkwKeMaWM"
+  },
+  {
+    "id": "8f1b0dfbef33497eab91b1eace082d23",
+    "amount": 500,
+    "createdAt": "1690353734995",
+    "productId": "a804cf59dc2f420ab4b0eb7d8223f1df",
+    "paymentOccurrence": "ONE_TIME",
+    "stripePriceId": "price_1NY1QGKIrPWZ5X3VLLOk9bNR"
+  },
+  {
+    "id": "50b9d9596d7d449589b4abbc812857fa",
+    "amount": 500,
+    "createdAt": "1690353734995",
+    "productId": "a804cf59dc2f420ab4b0eb7d8223f1df",
+    "paymentOccurrence": "MONTHLY",
+    "stripePriceId": "price_1NY1QGKIrPWZ5X3VZIQw8byW"
+  },
+  {
+    "id": "5e74cd6bbf634865bff295e483903ea1",
+    "amount": 1000,
+    "createdAt": "1690353734995",
+    "productId": "a804cf59dc2f420ab4b0eb7d8223f1df",
+    "paymentOccurrence": "ONE_TIME",
+    "stripePriceId": "price_1NY1QGKIrPWZ5X3VW61bEoCZ"
+  },
+  {
+    "id": "941299886db24be7a5af6177596ac596",
+    "amount": 1000,
+    "createdAt": "1690353734995",
+    "productId": "a804cf59dc2f420ab4b0eb7d8223f1df",
+    "paymentOccurrence": "MONTHLY",
+    "stripePriceId": "price_1NY1QGKIrPWZ5X3VXiptJzpo"
+  },
+  {
+    "id": "8404d42b79d041c6918863ccbeeae928",
+    "amount": 5000,
+    "createdAt": "1690353734995",
+    "productId": "a804cf59dc2f420ab4b0eb7d8223f1df",
+    "paymentOccurrence": "ONE_TIME",
+    "stripePriceId": "price_1NY1QGKIrPWZ5X3VDRXvq47b"
+  },
+  {
+    "id": "e129af72f3bc4db193dbf90f823b25fd",
+    "amount": 5000,
+    "createdAt": "1690353734995",
+    "productId": "a804cf59dc2f420ab4b0eb7d8223f1df",
+    "paymentOccurrence": "MONTHLY",
+    "stripePriceId": "price_1NY1QGKIrPWZ5X3V245nILzq"
+  },
+  {
+    "id": "412e28476ecc47c69a27fa649b03accb",
+    "amount": 10000,
+    "createdAt": "1690353734995",
+    "productId": "a804cf59dc2f420ab4b0eb7d8223f1df",
+    "paymentOccurrence": "ONE_TIME",
+    "stripePriceId": "price_1NY1QGKIrPWZ5X3V7UQY3TJ2"
+  },
+  {
+    "id": "e260fd0e5de746dba4756573ce8fa39f",
+    "amount": 10000,
+    "createdAt": "1690353734995",
+    "productId": "a804cf59dc2f420ab4b0eb7d8223f1df",
+    "paymentOccurrence": "MONTHLY",
+    "stripePriceId": "price_1NY1QGKIrPWZ5X3VpuBVvkR7"
+  },
+  {
+    "id": "80bd4e717c7942339d785a3cad315f3d",
+    "amount": 20000,
+    "createdAt": "1690353734995",
+    "productId": "a804cf59dc2f420ab4b0eb7d8223f1df",
+    "paymentOccurrence": "ONE_TIME",
+    "stripePriceId": "price_1NY1QGKIrPWZ5X3Vyp1KGZoC"
+  },
+  {
+    "id": "51856921dd9146caa79c95dad3cc1da5",
+    "amount": 20000,
+    "createdAt": "1690353734995",
+    "productId": "a804cf59dc2f420ab4b0eb7d8223f1df",
+    "paymentOccurrence": "MONTHLY",
+    "stripePriceId": "price_1NY1QGKIrPWZ5X3VGuJOf7vc"
+  },
+  {
+    "id": "20b8919ef0bc4c5bbdc6ff84e7da4bc0",
+    "amount": 0,
+    "createdAt": "1690353734995",
+    "productId": "a804cf59dc2f420ab4b0eb7d8223f1df",
+    "paymentOccurrence": "ONE_TIME",
+    "stripePriceId": "price_1NY1QGKIrPWZ5X3VXKTlraxS"
+  }
+]

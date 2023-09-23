@@ -1,0 +1,10 @@
+[
+  {
+    "id": "a804cf59dc2f420ab4b0eb7d8223f1df",
+    "name": "stripe_test",
+    "description": "Stripe test entry",
+    "countryCode": "SG",
+    "createdAt": 1690353734993,
+    "stripeProductId": "prod_OKgnbGsekao8YI"
+  }
+]
